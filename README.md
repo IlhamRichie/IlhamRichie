@@ -1,34 +1,87 @@
-# Hi there, I'm Ilham Richie 👋
+# Welcome 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=IlhamRichie&color=blue) ![GitHub followers](https://img.shields.io/github/followers/IlhamRichie?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/IlhamRichie?label=Stars&style=social)
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/13626.gif">
+</div>
 
-## 🚀 About Me
+</br>
+</br>
+</br>
 
-I'm a Informatics Student who loves building interactive and responsive web applications. Passionate about web technologies and always eager to learn new things.
 
-- 🔭 
-- 🌱 
-- 💬 
-- 📫 
+# About ME 💬 :
 
-## 🔧 Technologies & Tools
+### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/93195.gif">
 
-## 📊 GitHub Stats
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
 
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhamRichie&show_icons=true&theme=solarized-light&title_color=FFD700&icon_color=1572B6&text_color=000000&bg_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamRichie&layout=compact&theme=solarized-light&title_color=FFD700&icon_color=1572B6&text_color=000000&bg_color=ffffff)
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
 
-## 📫 Contact Me
+</br>
+</br>
+</br>
 
-- LinkedIn: [linkedin.com/in/IlhamRichie](https://linkedin.com/in/IlhamRichie)
-- Twitter: [twitter.com/IlhamRichie](https://twitter.com/IlhamRichie)
-- Email: [ilhamrigan22@gmail.com](mailto:ilhamrigan22@gmail.com)
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=IlhamRichie&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
