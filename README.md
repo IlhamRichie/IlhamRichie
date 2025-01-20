@@ -40,7 +40,7 @@
 
 <p align="center" >  
   <a href="https://github.com/IlhamRichie/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=IlhamRichie&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=IlhamRichie&&show_icons=true&theme=transparent"/>
   </a>
   </p>
 
