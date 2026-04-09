@@ -39,8 +39,8 @@ I'm a passionate **Machine Learning & AI Enthusiast** deeply interested in how N
 ### 📊 GitHub Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhamRichie&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&bg_color=1a1b27" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamRichie&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=10&bg_color=1a1b27" height="170" alt="langs" />
+  <img src="https://nice-readme.vercel.app/api/stats?username=IlhamRichie&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10&bg_color=1a1b27&count_private=true" height="170" alt="stats" />
+  <img src="https://nice-readme.vercel.app/api/top-langs?username=IlhamRichie&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1a1b27" height="170" alt="langs" />
 </div>
 
 <div align="center">
