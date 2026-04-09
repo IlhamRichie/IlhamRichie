@@ -1,89 +1,78 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Kevin&backgroundColor=b6e3f4" alt="Ilham Avatar" width="150" height="150" />
+<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Kevin&backgroundColor=b6e3f4" alt="Ilham Avatar" width="120" height="120" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ilham+Rigan+Agachi!;Machine+Learning+%26+AI+Enthusiast;Building+the+Future+with+Data.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ilham+Rigan!;Machine+Learning+Enthusiast;Building+the+Future+with+AI;Welcome+to+my+Digital+Garden!" alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-20-blue?style=flat-square&labelColor=24292e" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=flat-square&labelColor=24292e" />
+  <img src="https://komarev.com/ghpvc/?username=IlhamRichie&label=Profile%20Views&color=38BDF8&style=flat-square" alt="profile views"/>
+</p>
+
 </div>
 
-<br/>
+---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🧠 About Me</h2>
-      <p>
-        I'm a <b>20-year-old</b> Machine Learning & AI Enthusiast from <b>Indonesia</b> 🇮🇩. I love exploring the depths of Neural Networks and bringing data to life.
-      </p>
-      <ul>
-        <li>🌱 <b>Currently Learning:</b>
-          <ul>
-            <li>Data Structures & Algorithms</li>
-            <li>Generative Adversarial Networks (GANs)</li>
-            <li>Reinforcement Learning</li>
-          </ul>
-        </li>
-        <li>💡 <b>Interests:</b> Computer Vision, NLP, & Model Deployment.</li>
-        <li>🎨 <b>Hobbies:</b>
-          <ul>
-            <li>🎮 Strategy & RPG Games</li>
-            <li>📚 Light Novels & Manga</li>
-            <li>🖌️ Digital Drawing</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/IlhamRichie/IlhamRichie/blob/master/assets/1936.gif?raw=true" alt="Coding GIF" width="100%">
-    </td>
-  </tr>
-</table>
+### 🧠 About Me
 
-<br/>
+I'm a passionate **Machine Learning & AI Enthusiast** deeply interested in how Neural Networks can solve real-world problems. Currently focusing on the intersection of Generative AI and Computer Vision.
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+- 🚀 **Currently exploring:** Generative Adversarial Networks (GANs) & Reinforcement Learning.
+- 🛠️ **Deep Dive:** Mastering Data Structures & Algorithms for optimal model deployment.
+- 🎨 **Beyond the Code:** I enjoy Strategy Games, Digital Art, and reading Manga.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,jupyter&perline=8" />
   <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,androidstudio,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,androidstudio,vscode,linux,fastapi,mongodb,aws" />
+</div>
+
+---
+
+### 📊 GitHub Ecosystem
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IlhamRichie&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&bg_color=1a1b27" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamRichie&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=10&bg_color=1a1b27" height="170" alt="langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=IlhamRichie&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" alt="streak" />
 </div>
 
 <br/>
 
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/IlhamRichie">
-    <img src="https://github-readme-stats.vercel.app/api?username=IlhamRichie&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&bg_color=1a1b27" height="180" alt="stats" />
-  </a>
-  <a href="https://github.com/IlhamRichie">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamRichie&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=10&bg_color=1a1b27" height="180" alt="langs" />
-  </a>
-</div>
-
+<details>
+<summary align="center"><b>📈 View Contribution Activity</b></summary>
 <br/>
-
 <div align="center">
-  <a href="https://github.com/IlhamRichie">
-    <img src="https://streak-stats.demolab.com/?user=IlhamRichie&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=1a1b27" alt="streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhamRichie&theme=tokyonight&hide_border=true&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&bg_color=1a1b27" alt="Contribution Graph" width="95%"/>
 </div>
+</details>
 
-<br/>
+---
 
-<h2 align="center">📈 Contribution Graph</h2>
+### 🐍 Snake Contribution
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlhamRichie/IlhamRichie/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlhamRichie/IlhamRichie/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/IlhamRichie/IlhamRichie/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📫 Reach Me Out!
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhamRichie&theme=tokyonight&hide_border=true&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&bg_color=1a1b27" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>📫 Let's Connect!</h2>
   <a href="mailto:22090098.ilham@student.poltektegal.ac.id">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -93,8 +82,8 @@
   <a href="https://www.instagram.com/eloooyhm/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=IlhamRichie&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="profile views"/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer" width="100%"/>
+</p>
